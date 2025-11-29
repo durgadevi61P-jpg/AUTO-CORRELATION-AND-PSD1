@@ -66,8 +66,8 @@ plot(fw2);
 ```
 ---
 ## **Output:**
+![WhatsApp Image 2025-11-29 at 13 32 18_91631dee](https://github.com/user-attachments/assets/9debb68a-bfa8-4b5e-9d91-52f102c6711b)
 
-<img width="1920" height="1200" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/81bf1202-c2f9-4bcf-b294-3b5dc8df34d2" />
 
 ---
 
